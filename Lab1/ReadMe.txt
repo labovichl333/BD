@@ -1,0 +1,1 @@
+Использовал MySQL Community Server
